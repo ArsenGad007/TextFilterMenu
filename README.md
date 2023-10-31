@@ -1,4 +1,4 @@
-# TextFilterMenu :star:
+# TextFilterMenu:star:
 ***Note***: This is a simple Python project from Yandex. 
 I posted it on GitHub to see my progress in the future.:sweat_smile:
 ## My purpose
