@@ -19,5 +19,5 @@ Install the current version of [Python](https://www.python.org/downloads/).
 Install a Python IDE ([PyCharm](https://www.jetbrains.comru-ru/pycharm/download/?section=windows), 
 [Visual Studio Code](https://code.visualstudio.com/download), etc.)
 ## Recommendations:point_left:
-To understand what each function does, go to file text.py 
+To understand what each function does, go to file [text.py](text.py) 
 and read the description
