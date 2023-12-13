@@ -1,0 +1,36 @@
+Title: Text filtering program
+
+Description:
+This program creates an interactive menu to filter user-entered text using various processing methods. It provides the user with a choice of several filters and allows the selected filter to be applied to the entered text.
+
+Usage:
+1. When the program starts, the user is shown a menu with available filters.
+2. The user selects the corresponding filter number or enters '0' to exit the program.
+3. After selecting a filter, its name and description are displayed.
+4. The user is prompted to apply the selected filter to the text (Yes/No).
+5. If the user agrees, he is prompted to enter text.
+6. The selected filter is applied to the entered text and the result is displayed on the screen.
+
+Modules:
+1. 'text': Stores text data, such as menus with filters and their descriptions.
+2. 'functions': Contains functions for filtering text using various methods (camel_case, snake_case, CAPITAL letters, small letters).
+
+Input data:
+The user interacts with the program through the console, selecting a filter number, entering text, and deciding whether to apply the filter to the text.
+
+Output:
+The program displays the result of applying the selected filter to the text.
+
+Usage example:
+1. The user selects filter '1' (Camel Case).
+2. The program provides a description of the Camel Case filter.
+3. The user agrees to apply a filter to the text.
+4. The user enters "this is the text to filter."
+5. The program displays the result of applying the Camel Case filter to the text: “This is TextForFiltering.”
+
+Important Notes:
+- All entered data must be correct, otherwise the program may prompt for correct input.
+- The user can exit the program by entering '0' in the filter selection menu.
+
+Author:
+[ArsenGad2007]
